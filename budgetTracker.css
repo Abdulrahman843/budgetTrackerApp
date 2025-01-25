@@ -1,0 +1,26 @@
+/* CSS styles for Budget Tracker */
+
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#incomeList,
+#expenseList {
+  margin: 20px;
+}
+
+/* Item list styles */
+#incomeList p,
+#expenseList p {
+  margin: 5px 0;
+}
+
+/* Summary styles */
+#summary {
+  margin: 20px;
+}
